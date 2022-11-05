@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7f35931-6801-4140-8101-46c7bc4ed875" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/worksheet_linreg_example.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+    <list default="true" id="f7f35931-6801-4140-8101-46c7bc4ed875" name="Changes" comment="linreg example">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scala_linreg_made_2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala_linreg_made_2022.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/worksheet.sc" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667667881474</updated>
     </task>
+    <task id="LOCAL-00001" summary="linreg example">
+      <created>1667675832321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667675832321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="linreg example" />
+    <option name="LAST_COMMIT_MESSAGE" value="linreg example" />
   </component>
 </project>
