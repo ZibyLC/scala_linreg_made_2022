@@ -1,0 +1,25 @@
+2022-11-05 04:15:40 INFO
+r_train_file: train.csv
+r_test_file: test.csv
+w_output_file: output.csv
+
+2022-11-05 04:15:40 INFO
+Files found: OK...
+2022-11-05 04:15:40 INFO
+Reading is OK...
+2022-11-05 04:15:41 INFO
+Data preparation is OK...
+2022-11-05 04:15:41 INFO
+Model is fitted: OK...
+2022-11-05 04:15:41 INFO
+Predictions succeeded: OK...
+2022-11-05 04:15:41 INFO
+Test pred was written: OK...
+2022-11-05 04:15:41 INFO
+r**2 on train: 0,7532
+r**2 on test: 0,7379
+
+2022-11-05 04:15:41 INFO
+Estimation finished: OK...
+2022-11-05 04:15:41 INFO
+End of program.

@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7f35931-6801-4140-8101-46c7bc4ed875" name="Changes" comment="linreg example">
+      <change afterPath="$PROJECT_DIR$/main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datasets/data_prep.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datasets/insurance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datasets/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datasets/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/worksheet_linreg_example.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/worksheet_linreg_example.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/diabetes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/worksheet_filereader.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/worksheet_filereader.sc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +57,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/BigData_made/HW3/scala_linreg_made_2022/src/main",
+    "last_opened_file_path": "D:/BigData_made/HW3/scala_linreg_made_2022",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -55,11 +65,28 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BigData_made\HW3\scala_linreg_made_2022" />
       <recent name="D:\BigData_made\HW3\scala_linreg_made_2022\src\main" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BigData_made\HW3\scala_linreg_made_2022\src\main\datasets" />
       <recent name="D:\BigData_made\HW3\scala_linreg_made_2022\src\main" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="scala_linreg_made_2022" />
+      <option name="PROGRAM_PARAMETERS" value="train.csv test.csv output.csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -84,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667676400550</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="linreg example">
+      <created>1667677114064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667677114064</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
